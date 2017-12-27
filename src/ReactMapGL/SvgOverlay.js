@@ -1,3 +1,3 @@
 // module ReactMapGL.SvgOverlay
 
-exports.svgOverlayClass = require('react-map-gl/overlays/svg-overlay').default;
+exports.svgOverlayClass = require('react-map-gl/dist/overlays/svg-overlay').default;

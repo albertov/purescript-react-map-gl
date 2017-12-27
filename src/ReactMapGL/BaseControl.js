@@ -1,3 +1,3 @@
 // module ReactMapGL.BaseControl
 
-exports.baseControlClass = require('react-map-gl/components/base-control').default;
+exports.baseControlClass = require('react-map-gl/dist/components/base-control').default;

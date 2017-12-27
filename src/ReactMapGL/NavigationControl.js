@@ -1,3 +1,3 @@
 // module ReactMapGL.NavigationControl
 
-exports.navigationControlClass = require('react-map-gl/components/navigation-control').default;
+exports.navigationControlClass = require('react-map-gl/dist/components/navigation-control').default;
