@@ -1,4 +1,4 @@
-module MapboxGLReact where
+module ReactMapGL where
 import Prelude (Unit)
 import React (EventHandler, ReactElement)
 import Data.Foreign (Foreign)

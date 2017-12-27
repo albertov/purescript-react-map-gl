@@ -1,5 +1,5 @@
 {
-  "name": "purescript-react-mapbox-gl",
+  "name": "purescript-react-map-gl",
   "private": true,
   "version": "1.0.0",
   "description": "",
@@ -17,6 +17,6 @@
     "react-dom": "^15.6.1"
   },
   "dependencies": {
-    "mapbox-gl-react": "^0.1.6"
+    "react-map-gl": "^3.1.5"
   }
 }
